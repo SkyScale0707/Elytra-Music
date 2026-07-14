@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"package": "com.ggscaletest.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"ElytraMusicTotemized.CheckTotemTriggerMixin",
+		"ElytraMusicTotemized.ElytraAnvilMixin",
+		"ElytraMusicTotemized.ElytraAnvilMixin2"
+
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

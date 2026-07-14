@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "elytra-music",
+	"version": "${version}",
+	"name": "Elytra music",
+	"description": "一个进行鞘翅飞行就播放自定义音乐的小模组,当然现在他也成为了你隐藏的不死图腾",
+	"authors": [
+		"SkyScale0707"
+	],
+	"contact": {
+		
+	},
+	"license": "MIT",
+	"icon": "assets/elytra-music/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.ggscaletest.ElytraMusic"
+		],
+		"client": [
+			"com.ggscaletest.client.ElytraMusicClient"
+		]
+	},
+	"mixins": [
+		"elytra-music.mixins.json",
+		{
+			"config": "elytra-music.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,39 @@
+{
+  "description": { "translate": "enchantment.elytra-music.elytra_totem_enchantment" },
+  "supported_items": ["minecraft:elytra"],
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": { "base": 5, "per_level_above_first": 8 },
+  "max_cost": { "base": 25, "per_level_above_first": 8 },
+  "anvil_cost": 2,
+  "slots": ["chest"],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "elytra-music:elytra_totem_enchantment"
+        }
+      }
+    ],
+    "minecraft:damage_protection": [
+      {
+        "effect": {
+          "type": "minecraft:add",
+          "value": {
+            "type": "minecraft:linear",
+            "base": 1.5,
+            "per_level_above_first": 1.5
+          }
+        }
+      }
+    ],
+    "minecraft:repair_with_xp": [
+      {
+        "effect": {
+          "type": "minecraft:set",
+          "value": 0
+        }
+      }
+    ]
+  }
+}
