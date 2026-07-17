@@ -39,9 +39,9 @@
 
 | 形态 / Form | 获取方式 / How to Obtain | 保命机制 / Survival Mechanic | 触发后果 / Consequence on Trigger |
 |-------------|--------------------------|-----------------------------|-----------------------------------|
-| **原版鞘翅**<br>Vanilla Elytra | 末地船战利品 / End ship loot | 触发时消耗大量耐久换取一次图腾效果，转化为去图腾化鞘翅 / Trigger consumes large durability to get an totem effect, and transform to the untotemized elytra| 保留 **1/3 耐久（最低 18）** | — |
+| **原版鞘翅**<br>Vanilla Elytra | 末地船战利品 / End ship loot | 触发时消耗大量耐久换取一次图腾效果，转化为去图腾化鞘翅 / Trigger consumes large durability to get an totem effect, and transform to the untotemized elytra| 保留 **1/3 耐久（最低 18）** |
 | **预图腾化鞘翅**<br>Totemized Elytra | 原版鞘翅 + 不死图腾（铁砧）<br>Vanilla Elytra + Totem of Undying (anvil) | 自带一次图腾效果 / Built‑in totem effect | 触发后变为原版鞘翅，**保留所有附魔与数据**<br>Becomes a vanilla elytra after triggering, **preserving all enchantments and data** |
-| **去图腾化鞘翅**<br>Untotemized Elytra | 普通鞘翅触发图腾后自动转换<br>Automatically converted from a vanilla elytra after totem trigger | **不可使用经验修补**；可用不死图腾在铁砧修复为满耐久原版鞘翅<br>Retains **1/3 durability (minimum 18)**, **cannot be repaired with Mending**; can be fully repaired back to a vanilla elytra using a Totem of Undying on an anvil |
+| **去图腾化鞘翅**<br>Untotemized Elytra | 普通鞘翅触发图腾后自动转换<br>Automatically converted from a vanilla elytra after totem trigger | **不可使用经验修补**；可用不死图腾在铁砧修复为满耐久原版鞘翅<br>Retains **1/3 durability (minimum 18)**, **cannot be repaired with Mending**; can be fully repaired back to a vanilla elytra using a Totem of Undying on an anvil | — |
 
 **铁砧配方 / Anvil Recipes：**
 
