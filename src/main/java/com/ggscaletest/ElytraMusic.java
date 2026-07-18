@@ -28,6 +28,7 @@ public class ElytraMusic implements ModInitializer {
 		ModItems.initializer();
 		ModEnchantments.initializer();
 		ElytraMusicConfig.load();
+		ModLootModifier.register();
 
 		LOGGER.info("Hello Fabric world!");
 	}
