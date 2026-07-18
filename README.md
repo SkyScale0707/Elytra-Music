@@ -150,7 +150,7 @@ When a player wearing an elytra with this enchantment takes fatal damage:
 
 ## 📜 开源许可 | License
 
-**CC0-1.0** —— 欢迎自由使用、修改与分发。
+**MIT** —— 欢迎自由使用、修改与分发。
 *Free to use, modify, and distribute.*
 
 ---
