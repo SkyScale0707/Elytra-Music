@@ -10,6 +10,7 @@ This repository uses multiple branches to manage mod source code for different M
 
 | 分支 / Branch | 模组版本 / Mod Version | Minecraft 版本 & Mod 加载器 / Minecraft Version & Mod Loader | 状态 / Status |
 |---------------|------------------------|-------------------------------------------------------------|---------------|
-| `main`        | 1.7.2                  | Fabric 1.21.1 (>=0.19.2)                                    | ✅ 最新稳定版（推荐） / Latest stable (recommended) |
+| Fabric 1.21.1  | 1.7.2                  | Fabric 1.21.1 (>=0.19.2)                                    | ✅ 最新稳定版（推荐） / Latest stable (recommended) |
+| Fabric 1.20.1  | 1.7.2                  | Fabric 1.21.1 (>=0.19.2)                                    | ✅ 最新稳定版（推荐） / Latest stable (recommended) |
 
 ---
