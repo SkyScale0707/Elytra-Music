@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "com.ggscaletest.client.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"ExampleClientMixin",
+		"ModClientRender.CustomElytraRenderMixin",
+		"ModClientRender.ElytraTotemEffectMixin",
+		"ElytraMusic.ElytraMusicTrackerMixin",
+		"ElytraMusic.ElytraMusicSoundLoaderMixin",
+		"ElytraMusic.ElytraMusicSoundManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

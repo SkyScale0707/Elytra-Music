@@ -1,0 +1,12 @@
+{
+    "item.elytra-music.untotemized_elytra":"Untotemized Elytra",
+    "item.elytra-music.totemized_elytra":"Totemized Elytra",
+  "item.ggscaletest.untotemized_elytra.tooltip1": "The elytra took all the spiritual energy her cultivated through being with you to defend this fatal strike. ",
+  "item.ggscaletest.untotemized_elytra.tooltip2": "Her lost the ability to repair herself by absorbing experiences. ",
+  "item.minecraft.elytra.tooltip": "Every elytra has a hidden power of loyalty inner, ready to protect the owner in danger......",
+  "item.ggscaletest.untotemized_elytra.tooltip3": "Maybe she can be repaired by the striking of iron block. ",
+  "item.minecraft.elytra.tooltip2": "If we strike her with the totem on the anvil......what will happen?",
+  "item.ggscaletest.totemized_elytra.tooltip1": "Is the elytra with the totem better protected?",
+  "enchantment.elytra-music.elytra_totem_enchantment": "Protection from the Elytra",
+  "enchantment.elytra-music.elytra_totem_enchantment.desc": "The protection of the totem's power and the elytra's loyal soul, poured into this tiny enchanted book"
+}
